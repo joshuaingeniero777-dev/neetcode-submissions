@@ -1,3 +1,45 @@
+<!-- TRACKER:START -->
+## 📊 NeetCode 150 Progress
+
+**1 / 150 solved** `░░░░░░░░░░░░░░░░░░░░`  
+_Auto-updated 2026-11-16 · full tracker: [tracker/tracker.csv](tracker/tracker.csv)_
+
+Easy: **1/28** · Medium: **0/101** · Hard: **0/21**
+
+| Category | Solved | Progress |
+|---|---|---|
+| Arrays & Hashing | 1/9 | `█░░░░░░░░░` |
+| Two Pointers | 0/5 | `░░░░░░░░░░` |
+| Sliding Window | 0/6 | `░░░░░░░░░░` |
+| Stack | 0/7 | `░░░░░░░░░░` |
+| Binary Search | 0/7 | `░░░░░░░░░░` |
+| Linked List | 0/11 | `░░░░░░░░░░` |
+| Trees | 0/15 | `░░░░░░░░░░` |
+| Tries | 0/3 | `░░░░░░░░░░` |
+| Heap / Priority Queue | 0/7 | `░░░░░░░░░░` |
+| Backtracking | 0/9 | `░░░░░░░░░░` |
+| Graphs | 0/13 | `░░░░░░░░░░` |
+| Advanced Graphs | 0/6 | `░░░░░░░░░░` |
+| 1-D Dynamic Programming | 0/12 | `░░░░░░░░░░` |
+| 2-D Dynamic Programming | 0/11 | `░░░░░░░░░░` |
+| Greedy | 0/8 | `░░░░░░░░░░` |
+| Intervals | 0/6 | `░░░░░░░░░░` |
+| Math & Geometry | 0/8 | `░░░░░░░░░░` |
+| Bit Manipulation | 0/7 | `░░░░░░░░░░` |
+
+### 🔁 Due for a re-solve
+
+Nothing due. Nice work!
+
+### 🕒 Recently solved
+
+| Problem | Difficulty | Solved | Next re-solve |
+|---|---|---|---|
+| [Contains Duplicate](https://github.com/joshuaingeniero777-dev/neetcode-submissions/blob/main/Data%20Structures%20%26%20Algorithms/duplicate-integer/submission-12.py) | Easy | 2026-11-16 | 2026-11-19 |
+<!-- TRACKER:END -->
+
+---
+
 # NeetCode Solutions — @joshuaingeniero777-dev
 
 > Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions`
