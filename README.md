@@ -1,14 +1,14 @@
 <!-- TRACKER:START -->
 ## 📊 NeetCode 150 Progress
 
-**1 / 150 solved** `░░░░░░░░░░░░░░░░░░░░`  
+**2 / 150 solved** `░░░░░░░░░░░░░░░░░░░░`  
 _Auto-updated 2026-11-16 · full tracker: [tracker/tracker.csv](tracker/tracker.csv)_
 
-Easy: **1/28** · Medium: **0/101** · Hard: **0/21**
+Easy: **2/28** · Medium: **0/101** · Hard: **0/21**
 
 | Category | Solved | Progress |
 |---|---|---|
-| Arrays & Hashing | 1/9 | `█░░░░░░░░░` |
+| Arrays & Hashing | 2/9 | `██░░░░░░░░` |
 | Two Pointers | 0/5 | `░░░░░░░░░░` |
 | Sliding Window | 0/6 | `░░░░░░░░░░` |
 | Stack | 0/7 | `░░░░░░░░░░` |
@@ -36,6 +36,7 @@ Nothing due. Nice work!
 | Problem | Difficulty | Solved | Next re-solve |
 |---|---|---|---|
 | [Contains Duplicate](https://github.com/joshuaingeniero777-dev/neetcode-submissions/blob/main/Data%20Structures%20%26%20Algorithms/duplicate-integer/submission-12.py) | Easy | 2026-11-16 | 2026-11-19 |
+| [Valid Anagram](https://github.com/joshuaingeniero777-dev/neetcode-submissions/blob/main/Data%20Structures%20%26%20Algorithms/is-anagram/submission-1.py) | Easy | 2026-11-16 | 2026-11-19 |
 <!-- TRACKER:END -->
 
 ---
