@@ -2,7 +2,7 @@
 ## 📊 NeetCode 150 Progress
 
 **2 / 150 solved** `░░░░░░░░░░░░░░░░░░░░`  
-_Auto-updated 2026-11-16 · full tracker: [tracker/tracker.csv](tracker/tracker.csv)_
+_Auto-updated 2026-11-17 · full tracker: [tracker/tracker.csv](tracker/tracker.csv)_
 
 Easy: **2/28** · Medium: **0/101** · Hard: **0/21**
 
