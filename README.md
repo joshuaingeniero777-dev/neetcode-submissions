@@ -2,7 +2,7 @@
 ## 📊 NeetCode 150 Progress
 
 **2 / 150 solved** `░░░░░░░░░░░░░░░░░░░░`  
-_Auto-updated 2026-11-18 · full tracker: [tracker/tracker.csv](tracker/tracker.csv)_
+_Auto-updated 2026-11-19 · full tracker: [tracker/tracker.csv](tracker/tracker.csv)_
 
 Easy: **2/28** · Medium: **0/101** · Hard: **0/21**
 
@@ -29,7 +29,10 @@ Easy: **2/28** · Medium: **0/101** · Hard: **0/21**
 
 ### 🔁 Due for a re-solve
 
-Nothing due. Nice work!
+| Problem | Category | Last solved | Due |
+|---|---|---|---|
+| [Contains Duplicate](https://neetcode.io/problems/duplicate-integer) | Arrays & Hashing | 2026-11-16 | 2026-11-19 |
+| [Valid Anagram](https://neetcode.io/problems/is-anagram) | Arrays & Hashing | 2026-11-16 | 2026-11-19 |
 
 ### 🕒 Recently solved
 
