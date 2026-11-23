@@ -1,14 +1,14 @@
 <!-- TRACKER:START -->
 ## 📊 NeetCode 150 Progress
 
-**2 / 150 solved** `░░░░░░░░░░░░░░░░░░░░`  
+**3 / 150 solved** `░░░░░░░░░░░░░░░░░░░░`  
 _Auto-updated 2026-11-22 · full tracker: [tracker/tracker.csv](tracker/tracker.csv)_
 
-Easy: **2/28** · Medium: **0/101** · Hard: **0/21**
+Easy: **3/28** · Medium: **0/101** · Hard: **0/21**
 
 | Category | Solved | Progress |
 |---|---|---|
-| Arrays & Hashing | 2/9 | `██░░░░░░░░` |
+| Arrays & Hashing | 3/9 | `███░░░░░░░` |
 | Two Pointers | 0/5 | `░░░░░░░░░░` |
 | Sliding Window | 0/6 | `░░░░░░░░░░` |
 | Stack | 0/7 | `░░░░░░░░░░` |
@@ -38,6 +38,7 @@ Easy: **2/28** · Medium: **0/101** · Hard: **0/21**
 
 | Problem | Difficulty | Solved | Next re-solve |
 |---|---|---|---|
+| [Two Sum](https://github.com/joshuaingeniero777-dev/neetcode-submissions/blob/main/Data%20Structures%20%26%20Algorithms/two-integer-sum/submission-15.py) | Easy | 2026-11-22 | 2026-11-25 |
 | [Contains Duplicate](https://github.com/joshuaingeniero777-dev/neetcode-submissions/blob/main/Data%20Structures%20%26%20Algorithms/duplicate-integer/submission-12.py) | Easy | 2026-11-16 | 2026-11-19 |
 | [Valid Anagram](https://github.com/joshuaingeniero777-dev/neetcode-submissions/blob/main/Data%20Structures%20%26%20Algorithms/is-anagram/submission-7.py) | Easy | 2026-11-16 | 2026-11-19 |
 <!-- TRACKER:END -->
